@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 **prajvl/prajvl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -11,4 +11,4 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with building scalable backend systems.
 - 💬 Ask me about JavaScript, React, Node.js, or anything full stack!
 - 📫 How to reach me: Email-prajwalnalawade15@gmail.com
--->
+
