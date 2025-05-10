@@ -1,3 +1,54 @@
+# 👋 Hi there! I'm Prajwal
+
+I'm a dedicated full-stack web developer with a strong foundation in both **Java** and **Web Development**, currently expanding into **PHP-based backend systems**. I specialize in building clean, scalable applications and love diving into both backend logic and frontend design.
+
+---
+
+## 🧠 Core Skills
+- ✅ Solid understanding of **HTML**, **CSS**, and **JavaScript** for responsive and accessible web interfaces
+- ✅ Proficient in **PHP**, with knowledge of OOP, debugging, and modern frameworks (Laravel, Core PHP)
+- ✅ Strong experience with **MySQL** for relational data modeling and query optimization
+- ✅ Familiar with **Spring Boot & Hibernate** for enterprise-grade backend systems
+
+---
+
+## 🛠 Tech Stack
+
+### 🔙 Backend
+- PHP, Laravel, Core PHP  
+- Java, Spring Boot, Hibernate  
+- MySQL, PostgreSQL  
+- RESTful API design  
+- Background job processing with Laravel Queues / async scripts
+
+### 🎨 Frontend
+- HTML5, CSS3, JavaScript  
+- Bootstrap, Tailwind CSS  
+- React (in progress), Fetch API, Axios
+
+### 🔧 Tools & Practices
+- Git, GitHub  
+- Composer, npm  
+- Debugging with Xdebug / Chrome DevTools  
+- PHPUnit, Postman for API testing
+
+---
+
+## 🚀 Current Focus
+- 🔭 Building full-stack applications using PHP & JavaScript
+- 🌱 Learning Next.js, TypeScript, and DevOps (CI/CD, Docker)
+- 💡 Exploring scalable architecture and microservices
+- 🤝 Open to collaborating on **web** and **cloud-based projects**
+
+---
+
+## 💬 Let's Connect!
+📫 Email: **prajwalnalawade15@gmail.com**  
+<!-- 💼 [LinkedIn](https://www.linkedin.com/in/yourprofile) *(if available)*  -->
+📁 Check out my pinned projects below!
+
+
+
 <!--
 👋 Hi there! I'm Prajval
 
