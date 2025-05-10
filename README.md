@@ -13,6 +13,7 @@ I'm passionate about crafting efficient, high-quality solutions, and I bring str
 
 <!-- Here are some ideas to get you started:  -->
 
+<!--
 - 🔭 I’m currently working on full stack development projects.
 - 🌱 I’m currently learning Next.js, TypeScript, and DevOps practices.
 - 👯 I’m looking to collaborate on open source web and cloud-based applications.
