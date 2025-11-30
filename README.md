@@ -1,5 +1,5 @@
 <!-- ----------------------------------------------------- -->
-<!-- 🌟 AESTHETIC & ANIMATED GITHUB PROFILE README 🌟 -->
+<!-- 🌟 CLEAN AESTHETIC GITHUB PROFILE README 🌟 -->
 <!-- ----------------------------------------------------- -->
 
 <h1 align="center">👋 Hey, I'm <b>Prajwal</b></h1>
@@ -8,13 +8,13 @@
 
 <p align="center">
   💻 I build scalable web apps using <b>MERN Stack</b>  
-  ⚡ Love crafting clean UI, powerful APIs & smooth user experience  
-  🚀 Always learning, always shipping  
+  ⚡ Love crafting smooth UI + efficient backend APIs  
+  🚀 Always learning, improving & shipping  
 </p>
 
 ---
 
-## 🧠 **Core Tech Expertise**
+## 🧠 Core Tech Expertise
 
 ### 💻 MERN Stack (Strong Skillset)
 > MongoDB • Express.js • React.js • Node.js
@@ -26,51 +26,33 @@
 
 ### 🔥 Backend
 - Node.js + Express.js
-- MongoDB + Mongoose
-- REST API Design & Architecture
+- MongoDB + Mongoose ORM
+- REST API Architecture
 
-### 🛠 Tools & Workflow
+### 🛠 Tools & Workflows
 - Git / GitHub • Vite
-- Postman / Thunder Client
-- Chrome DevTools debugging
+- Postman / ThunderClient
+- Chrome DevTools Debugging
 - Learning → Next.js, TypeScript, Docker
 
 ---
 
 ## 🚀 Current Focus
 
-- 🔥 Scaling MERN Applications  
-- 🌱 TypeScript + Next.js roadmap  
-- 📌 Backend Optimization + System Design  
-- 🤝 Collaboration on Web & AI-driven projects  
+- 🔥 Deepening MERN full-stack mastery  
+- 🌱 Learning Next.js + TypeScript  
+- 📌 Building scalable backend architectures  
+- 🤝 Open to collaborate on Web / MERN projects  
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <div align="center">
 
-| Stats | Streak |
-|-------|--------|
-| <img height="160px" src="https://github-readme-stats.vercel.app/api?username=prajvl&show_icons=true&theme=tokyonight&hide_border=true"/> | <img height="160px" src="https://streak-stats.demolab.com?user=prajvl&theme=tokyonight&hide_border=true"/> |
+<img height="160px" src="https://github-readme-stats.vercel.app/api?username=prajvl&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 </div>
-
----
-
-## 🔥 Most Used Technologies
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajvl&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## 🐍 Contribution Snake (Animated)
-
-<p align="center">
-  <img src="https://github.com/prajvl/prajvl/blob/output/github-contribution-grid-snake.svg"/>
-</p>
 
 ---
 
@@ -95,10 +77,9 @@
 
 ---
 
-## 📩 Reach Out
+## 📩 Contact
 
 📬 Email → **prajwalnalawade15@gmail.com**  
-⭐ If you like my work → Give repos a star!
+⭐ Feel free to check pinned projects!
 
 ---
-
