@@ -42,12 +42,15 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats  
 
-<div align="center">
-  <img height="160px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=prajvl&show_icons=true&theme=tokyonight&hide_border=true"/>
-</div>
-
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prajvl&theme=tokyonight" width="85%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=prajvl&theme=tokyonight" height="160" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=prajvl&theme=tokyonight" height="160" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=prajvl&theme=tokyonight" height="160" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=prajvl&theme=tokyonight" height="160" />
+</p>
 ---
 
 ## 🛠 Tech Stack Icons
