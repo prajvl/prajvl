@@ -1,57 +1,51 @@
-<!-- ----------------------------------------------------- -->
-<!-- 🌟 CLEAN AESTHETIC GITHUB PROFILE README 🌟 -->
-<!-- ----------------------------------------------------- -->
-
 <h1 align="center">👋 Hey, I'm <b>Prajwal</b></h1>
 
 <h3 align="center">🚀 Full Stack MERN Developer | JavaScript Enthusiast | Problem Solver</h3>
 
 <p align="center">
-  💻 I build scalable web apps using <b>MERN Stack</b>  
-  ⚡ Love crafting smooth UI + efficient backend APIs  
-  🚀 Always learning, improving & shipping  
+  💻 I build scalable applications using <b>MERN Stack</b>  
+  ⚡ Love creating smooth UI + powerful backend APIs  
+  🚀 Always learning, improving, and building  
 </p>
 
 ---
 
 ## 🧠 Core Tech Expertise
 
-### 💻 MERN Stack (Strong Skillset)
+### 💻 MERN Stack (Primary)
 > MongoDB • Express.js • React.js • Node.js
 
 ### ⚡ Frontend
 - React (Hooks, Routing, Context API)
 - Tailwind CSS | Bootstrap | Material UI
-- JavaScript ES6+ | Axios | Fetch API
+- JavaScript ES6+ • Axios • Fetch API
 
 ### 🔥 Backend
 - Node.js + Express.js
-- MongoDB + Mongoose ORM
+- MongoDB + Mongoose
 - REST API Architecture
 
-### 🛠 Tools & Workflows
-- Git / GitHub • Vite
-- Postman / ThunderClient
-- Chrome DevTools Debugging
-- Learning → Next.js, TypeScript, Docker
+### 🛠 Tools & Workflow
+- Git • GitHub
+- Vite • npm
+- Postman / Thunder Client
+- Chrome DevTools
+- Currently learning → Next.js • TypeScript • Docker
 
 ---
 
 ## 🚀 Current Focus
-
-- 🔥 Deepening MERN full-stack mastery  
-- 🌱 Learning Next.js + TypeScript  
-- 📌 Building scalable backend architectures  
-- 🤝 Open to collaborate on Web / MERN projects  
+- Deepening MERN full-stack skills
+- Learning Next.js + TypeScript
+- Writing cleaner, optimized backend services
+- Open to collaborate on full-stack projects
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img height="160px" src="https://github-readme-stats.vercel.app/api?username=prajvl&show_icons=true&theme=tokyonight&hide_border=true"/>
-
+  <img height="160px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=prajvl&show_icons=true&theme=tokyonight&hide_border=true"/>
 </div>
 
 ---
@@ -80,6 +74,6 @@
 ## 📩 Contact
 
 📬 Email → **prajwalnalawade15@gmail.com**  
-⭐ Feel free to check pinned projects!
+⭐ Check out pinned projects!
 
 ---
